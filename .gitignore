@@ -1,0 +1,9 @@
+calculadoraSenior_PC/**/nbproject/private/
+calculadoraSenior_PC/**/nbproject/Makefile-*.mk
+calculadoraSenior_PC/**/nbproject/Package-*.bash
+calculadoraSenior_PC/build/
+calculadoraSenior_PC/nbbuild/
+calculadoraSenior_PC/dist/
+calculadoraSenior_PC/nbdist/
+calculadoraSenior_PC/.nb-gradle/
+
